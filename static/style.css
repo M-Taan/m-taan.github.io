@@ -37,8 +37,6 @@
   background-color: #fff;
 }
 
-
-/* header for small-medium screens */
 @media (max-width: 700px) {
   .preamble-sep {
     width: 90%;
@@ -122,8 +120,6 @@ h1:before, h2:before, h3:before {
   text-rendering: optimizeLegibility;
 }
 
-
-/* footer small-medium screens */
 @media (max-width: 700px) {
   .social-name {
     display: none;
@@ -135,9 +131,6 @@ h1:before, h2:before, h3:before {
     display: block;
   }
 }
-
-
-/** https://zngguvnf.org/2017-07-13--blogging-with-org-static-blog.html */
 
 #content {
   background: #fff;
@@ -151,30 +144,6 @@ h1:before, h2:before, h3:before {
     margin-left: 1em;
     margin-bottom: 1em
 }
-
-/******************************************************
- * I copied these styles from markdotto.com, who is
- * the creator of bootstrap, and I also did some
- * modification. Thanks Mark for the beautiful theme,
- * so I reserved the @mdo sign below.
- *****************************************************/
-
-/*
-  __
-  __                  /\ \
-  /'_`\_    ___ ___    \_\ \    ___
-  /'/'_` \ /' __` __`\  /'_` \  / __`\
-  /\ \ \L\ \/\ \/\ \/\ \/\ \L\ \/\ \L\ \
-  \ \ `\__,_\ \_\ \_\ \_\ \___,_\ \____/
-  \ `\_____\\/_/\/_/\/_/\/__,_ /\/___/
-  `\/_____/
-
-*/
-
-
-
-/* Body resets
-   -------------------------------------------------- */
 
 * {
     -webkit-box-sizing: border-box;

@@ -1,0 +1,15 @@
+#+title: About
+
+* Profession
+
+I work as a software engineer at RAMS Services, a company based in Lebanon and Dubai.
+
+* Why this blog?
+
+I believe in mastering one’s craft, and I want to master mine. This blog is my journey toward that goal. I’ll write about what I’m learning, my experiences, and my opinions. It’s a technical blog that advocates the philosophy of: “From scratch, understand things from the ground up.” Hence, the name of the blog, From First Principles.
+
+In today’s world, everything is abstracted, with countless layers stacked on top of each other to hide how things actually work because they’re deemed "complex." But in reality, we haven’t eliminated the complexity—we’ve just shifted it up the ladder. At every step where we hide something behind an abstraction, we introduce a new layer of complexity.
+
+As a result, instead of teaching people how things truly work, we teach them how to understand this specific layer so they can get things done quickly. This approach produces programmers who lack the foundational understanding needed to push the craft and the industry forward. How can you improve something or form your own opinions when you don’t understand how it actually works?
+
+I don’t like that. It has always rubbed me the wrong way. I want to understand how things work, and I want to share this knowledge with anyone else interested in understanding, too.

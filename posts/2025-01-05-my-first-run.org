@@ -1,7 +1,0 @@
-#+title: My First Run
-#+date: <2025-01-05 18:36>
-#+description: 
-#+filetags: blog, hey
-
-* Trying stuff
-Hello I'm blogging??
